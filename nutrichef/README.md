@@ -194,10 +194,10 @@ __pycache__/
 ## Assets
 
 ### Architecture Diagram
-*(To be generated in Phase 7)*
+![NutriChef Agent Workflow Diagram](assets/architecture_diagram.png)
 
 ### Cover Banner
-*(To be generated in Phase 7)*
+![NutriChef Cover Banner](assets/cover_page_banner.png)
 
 ---
 
