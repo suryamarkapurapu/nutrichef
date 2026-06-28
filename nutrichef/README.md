@@ -202,4 +202,5 @@ __pycache__/
 ---
 
 ## Demo Script
-*(To be generated in Phase 8)*
+
+See [DEMO_SCRIPT.txt](DEMO_SCRIPT.txt) for the full spoken narration (3–4 min) to use during your project demo presentation.
